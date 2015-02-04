@@ -6,8 +6,8 @@ All you need to do is to clone this repository,
 
 
 ```
-git clone https://github.com/raonibr/f1feeder-part2
-cd f1feeder-part2
+git clone https://github.com/raonibr/angularjs-startup
+cd angularjs-startup
 ```
 
 Then, install all the dependencies:
