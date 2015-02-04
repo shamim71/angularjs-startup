@@ -1,4 +1,4 @@
-# F1FeederApp-Part2
+# AngularJs Startup Project with Eclipse
 
 ## Getting Started
 
